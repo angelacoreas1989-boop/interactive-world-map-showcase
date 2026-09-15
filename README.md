@@ -247,9 +247,42 @@ Course instructions, assessment materials, grading documentation, evaluator info
 
 ## ✦ SHOWCASE STRUCTURE ✦
 
-```text
-interactive-world-map-showcase/
-├── assets/
-│   ├── angela-coreas-banner.png
-│   └── world-map-preview.png
-└── README.md
+    interactive-world-map-showcase/
+    ├── assets/
+    │   ├── angela-coreas-banner.png
+    │   └── world-map-preview.png
+    └── README.md
+
+---
+
+## ✦ AUTHOR ✦
+
+**Angela Coreas**
+
+Software Engineering Student • Operations & CRM Professional
+
+**LinkedIn:**  
+https://www.linkedin.com/in/angela-coreas-550088186/
+
+**GitHub:**  
+https://github.com/angelacoreas1989-boop
+
+**Portfolio:**  
+https://angelacoreas1989-boop.github.io/tech-portfolio/
+
+**Email:**  
+acorea3@wgu.edu
+
+---
+
+<p align="center">
+  ✦ Building Solutions • Writing Code • Creating Impact ✦
+</p>
+
+<p align="center">
+  <i>💗 Building consistently. Learning intentionally. Creating real-world solutions. 💗</i>
+</p>
+
+<p align="center">
+  ✦
+</p>
